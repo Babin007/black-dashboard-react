@@ -31,7 +31,7 @@ import ThemeContextWrapper from "./components/ThemeWrapper/ThemeWrapper";
 import BackgroundColorWrapper from "./components/BackgroundColorWrapper/BackgroundColorWrapper";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-
+// checking git
 root.render(
   <ThemeContextWrapper>
     <BackgroundColorWrapper>
